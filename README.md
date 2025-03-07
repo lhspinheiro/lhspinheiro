@@ -7,7 +7,7 @@
 Sou ciêntista da computação e desenvolvedor apaixonado pela tecnologia e programação.
 Estou sempre em busca de crescer profissionalmente e buscando novos desafios, com foco em tornar ideias criativas em interfaces funcionais que tornam a usabilidade e satisfação ao usuário, gosto sempre de me propor em desafios, contribuindo de maneira significativas em projetos . 
 
-🤖 Stacks 
+# 🤖 Stacks 
 
 ![C#] 
 ![.Net]
@@ -18,7 +18,7 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
 ![Git]
 ![Bootstrap]
 
-📱 Contatos
+# 📱 Contatos
 
 <div>
    <a href="luishenrique0109@hotmail.com" target="_blank" rel="noreferrer"><img  aligh="center" src="https://img.shields.io/badge/-Outlook-0F6CBD?style=for-the-badge&logo=microsoftoutlook&logoColor=white""></a>
@@ -35,12 +35,13 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
 </picture>
 
 
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-top:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lhspinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
