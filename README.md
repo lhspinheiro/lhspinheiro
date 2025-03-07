@@ -39,18 +39,19 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lhspinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhspinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+</p>
+  
+<p>
+   <img 
+         align="left" 
+         alt="GitHub Stats" 
+         height="200" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhspinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+     />
 </p>
 
 
