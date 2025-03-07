@@ -35,7 +35,7 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
 </picture>
 
 
-
+<div>
 <p>
   <img 
     align="left" 
@@ -54,7 +54,7 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhspinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
      />
 </p>
-
+</div>
 
 
 
