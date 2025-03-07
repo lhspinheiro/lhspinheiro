@@ -21,7 +21,7 @@ Estou sempre em busca de crescer profissionalmente e buscando novos desafios, co
 # 📱 Contatos
 
 <div>
-   <a href="luishenrique0109@hotmail.com" target="_blank" rel="noreferrer"><img  aligh="center" src="https://img.shields.io/badge/-Outlook-0F6CBD?style=for-the-badge&logo=microsoftoutlook&logoColor=white""></a>
+   <a href="malito:luishenrique0109@hotmail.com" target="_blank" rel="noreferrer"><img  aligh="center" src="https://img.shields.io/badge/-Outlook-0F6CBD?style=for-the-badge&logo=microsoftoutlook&logoColor=white""></a>
   <a href="https://www.linkedin.com/in/lhspinheiro" target="_blank"><img  aligh="center" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
