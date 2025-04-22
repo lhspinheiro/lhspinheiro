@@ -2,7 +2,7 @@
 
 *`Back-end Developer`*
 
-### $"Olá, me {Luís Henrique}!" 👋🏾
+### $"Olá, me {Luís Henrique}! 👋🏾" 
 
 Sou ciêntista da computação e desenvolvedor apaixonado pela tecnologia e programação.
 Estou sempre em busca de crescer profissionalmente e buscando novos desafios, com foco em tornar ideias criativas em interfaces funcionais que tornam a usabilidade e satisfação ao usuário, gosto sempre de me propor em desafios, contribuindo de maneira significativas em projetos . 
